@@ -168,9 +168,7 @@ uvicorn server:app --reload --port 8000
 ## ✅ Roadmap  
 - [x] **Phase 1:** Streamlit MVP  
 - [x] **Phase 2:** RAG-Lite + Debugging Mode  
-- [x] **Phase 3:** VS Code Extension  
-- [ ] **Phase 4:** Multi-turn chat inside panel  
-- [ ] **Phase 5:** Context-aware debugging from entire project  
+- [x] **Phase 3:** VS Code Extension 
 
 ---
 
