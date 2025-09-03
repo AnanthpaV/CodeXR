@@ -1,0 +1,13 @@
+streamlit
+langchain
+langchain-community
+langchain-openai
+google-search-results
+openai
+requests
+jsonschema
+beautifulsoup4
+pandas
+tiktoken
+faiss-cpu
+pydantic
