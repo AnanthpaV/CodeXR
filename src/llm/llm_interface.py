@@ -1,26 +1,3 @@
-""" class LLMInterface:
-    def __init__(self, model_name):
-        self.model_name = model_name
-
-    def send_query(self, query):
-        # Placeholder: Replace with actual LLM API call
-        return {"response": f"Simulated response for '{query}' using {self.model_name}"}
-
-    def receive_response(self, response):
-        # Placeholder: Just pass through for now
-        return response
-
-    def structured_response(self, response):
-        # Placeholder: Structure the response
-        return {
-            "subtasks": ["Step 1: Analyze query", "Step 2: Generate code"],
-            "code": "// Example code snippet",
-            "gotchas": ["Check API compatibility"],
-            "best_practices": ["Use official docs"],
-            "difficulty": "Medium",
-            "docs_link": "https://docs.unity3d.com/",
-            "raw": response
-        } """
 class LLMInterface:
     def __init__(self, model_name):
         self.model_name = model_name
