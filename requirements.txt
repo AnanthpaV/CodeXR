@@ -1,13 +1,30 @@
+#FOR PYTHON
 streamlit
-langchain
-langchain-community
-langchain-openai
-google-search-results
-openai
 requests
-jsonschema
-beautifulsoup4
-pandas
-tiktoken
+langchain
 faiss-cpu
+sentence-transformers
+openai
+google-generativeai
+serpapi
+tqdm
 pydantic
+python-dotenv
+uvicorn
+fastapi
+rich
+pytest
+
+#FOR NODE.JS
+typescript
+ts-node
+@types/vscode
+vscode
+axios
+
+#FOR SYSTEM
+ffmpeg   # required for Whisper STT
+git
+Node.js v18+
+Python 3.10+
+VS Code latest
