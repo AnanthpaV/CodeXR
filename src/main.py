@@ -7,7 +7,7 @@ from rag.rag_retriever import RAGRetriever
 from debugging.debug_handler import DebugHandler
 from speech.whisper_handler import WhisperHandler   # NEW
 
-SERPAPI_API_KEY = "aa67d4ff97ad83b7f8ddb6e94457829c89d8131382b9f24e918310ca9d048691"
+SERPAPI_API_KEY = "YOUR-SERP-API-KEY"
 
 def main():
     st.title("CodeXR: AI-Powered Coding Assistant for AR/VR Developers")
